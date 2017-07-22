@@ -1,0 +1,65 @@
+.mcqueen {
+  background-color: #81D4FA;
+  border-radius: 15px 50px;
+  color: #039BE5;
+  font-family: "Courgette", Helvetica, Arial;
+  font-size: 18px;
+  font-weight: normal;
+  border-radius: 15px 50px;
+  line-height: 32px;
+  margin: 8px 0;
+  padding: 6px 10px;
+  width: 80%;
+}
+
+.chanel {
+  background-color: #64FFDA;
+  color: #009688;
+  font-family: "Marck Script", Arial, Georgia;
+  font-size: 17px;
+  font-weight: normal;
+  line-height: 30px;
+  margin: 8px 0;
+  padding: 2px 12px;
+  width: 80%;
+}
+
+.larenta {
+  background-color: #E1BEE7;
+  border-radius: 5px;
+  color: #AB47BC;
+  font-family: "Cookie", Courier, Helvetica;
+  font-size:  19px;
+  font-weight: normal;
+  line-height: 35px;
+  margin: 8px 0;
+  padding: 3px 13px;
+  width: 80%;
+}
+
+.prada {
+  background-color: #ffcdd2;
+  border-radius: 15px;
+  color: #F06292;
+  font-family: "Courgette", Georgia, Courier;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 31px;
+  margin: 8px 0;
+  padding: 4px 15px;
+  width: 80%;
+}
+
+
+
+/*
+Requirements
+
+Copy and paste your blog article HTML into the index.html file for this exercise. For each article on your blog page, you need to have the following things to be unique.
+A different background color.
+A different font family.
+A different font size.
+A different font color.
+A different line height.
+A different padding value.
+Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)*/
